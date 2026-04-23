@@ -1,10 +1,31 @@
-- 👋 Hi, I’m Daniel
-- 👀 I’m interested in ReactJS, React Native and PHP
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on make so much money
-- 📫 How to reach me: danielc10000@gmail.com
+### 👋 Hi, I'm Daniel
 
-<!---
-daniel-2010/daniel-2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Web Developer focused on building scalable systems and high-performance web applications.
+
+💻 I work with:
+
+* Node.js, PHP (CodeIgniter 4)
+* MongoDB & MySQL
+* Docker & AWS
+* REST APIs & system integrations
+
+🛠️ I develop:
+
+* Custom web systems
+* Professional websites
+* SaaS platforms
+
+📈 Currently improving my skills in:
+
+* React & React Native
+* Backend architecture & DevOps
+
+🤝 Open to:
+
+* Freelance projects
+* Remote opportunities
+* Collaborations
+
+📫 Contact:
+
+* Email: [danielc10000@gmail.com](mailto:danielc10000@gmail.com)
