@@ -20,11 +20,6 @@
 * React & React Native
 * Backend architecture & DevOps
 
-🤝 Open to:
-
-* Freelance projects
-* Remote opportunities
-* Collaborations
 
 📫 Contact:
 
