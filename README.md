@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Daniel
 
-🚀 Web Developer focused on building scalable systems and high-performance web applications.
+🚀 Full Stack Engineer focused on building scalable systems and high-performance web applications.
 
 💻 I work with:
 
