@@ -25,7 +25,7 @@
 
 🎓 Education:
 
-* Bachelor's Degree in Computer Science — *IFSULDEMINAS*
+* Bachelor's Degree in Computer Science — *IFSULDEMINAS - 2010-2015*
 
 📈 Currently improving my skills in:
 
