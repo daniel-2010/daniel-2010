@@ -23,6 +23,10 @@
 * Zero-downtime deployments
 * Monitoring & cloud architecture
 
+🎓 Education:
+
+* Bachelor's Degree in Computer Science — *IFSULDEMINAS*
+
 📈 Currently improving my skills in:
 
 * React & React Native
