@@ -1,25 +1,32 @@
 ### 👋 Hi, I'm Daniel
 
-🚀 Full Stack Engineer focused on building scalable systems and high-performance web applications.
+🚀 Software Engineer / DevOps Engineer focused on building scalable systems, cloud infrastructure and high-performance web applications.
 
 💻 I work with:
 
-* Node.js, PHP (CodeIgniter 4)
-* MongoDB & MySQL
-* Docker & AWS
-* REST APIs & system integrations
+* Node.js, Express.js
+* PHP 8 (CodeIgniter 4)
+* MySQL, PostgreSQL, MongoDB, Redis
+* Docker, AWS (EC2, ECS, RDS/Aurora, S3 + CloudFront)
+* REST APIs, WebSockets & system integrations
 
 🛠️ I develop:
 
-* Custom web systems
-* Professional websites
-* SaaS platforms
+* Custom web systems & professional websites
+* Multi-tenant SaaS platforms
+* Automation systems & ecommerce solutions
+
+⚙️ DevOps & Infrastructure:
+
+* CI/CD pipelines (GitHub Actions)
+* Container orchestration
+* Zero-downtime deployments
+* Monitoring & cloud architecture
 
 📈 Currently improving my skills in:
 
 * React & React Native
-* Backend architecture & DevOps
-
+* Advanced backend architecture & DevOps practices
 
 📫 Contact:
 
